@@ -1,9 +1,12 @@
 package main
 
 import (
+	"fmt"
 	"github.com/knet-network/pw-exchange/cmd"
 )
 
 func main() {
-	cmd.Execute()
+	if err := cmd.Execute(); err != nil {
+		fmt.Println("An error occurred!", err)
+	}
 }
