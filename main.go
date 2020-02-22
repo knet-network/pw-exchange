@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/knet-network/cmd"
+	"github.com/knet-network/pw-exchange/cmd"
 )
 
 func main() {

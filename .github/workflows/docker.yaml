@@ -14,4 +14,4 @@ jobs:
           name: knet-network/pw-exchange
           username: ${{ secrets.DOCKER_USERNAME }}
           password: ${{ secrets.DOCKER_PASSWORD }}
-          tags: "latest,${{github.ref}}"
+          tag_names: true
