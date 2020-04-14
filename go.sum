@@ -4,6 +4,8 @@ github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03
 github.com/OneOfOne/xxhash v1.2.2/go.mod h1:HSdplMjZKSmBqAxg5vPj2TmRDmfkzw+cTzAElWljhcU=
 github.com/aerogo/aero v1.3.52 h1:oeAZVL2QHVBxXJeLvoKgt4ihygS/XrFQCsaD7PNfRV0=
 github.com/aerogo/aero v1.3.52/go.mod h1:3q0urf+LYebjm7rsfYpH0lYK2GvOeF0XVspgxKJCbqE=
+github.com/aerogo/aero v1.3.53 h1:312N/1NvAAdZs65CaIYmKwflz4GFrssYFWDhVWTL4Bo=
+github.com/aerogo/aero v1.3.53/go.mod h1:3q0urf+LYebjm7rsfYpH0lYK2GvOeF0XVspgxKJCbqE=
 github.com/aerogo/csp v0.1.10 h1:2PJf9gkdRvCFYOA0baTUyp34vwPp5ZJJX8GZRCYc/nM=
 github.com/aerogo/csp v0.1.10/go.mod h1:UrxbTXv+X9kJatyuLeu2yGFpOiWVPjbqA/DzqxSVhl8=
 github.com/aerogo/http v1.1.2/go.mod h1:h+m3WxevpaifyVpRAMV58qt8ScXSZhU1a5DdvBkRwwE=
